@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @adpav
-- 👀 I’m interested in ...
+- 👀 I’m interested in html, css and javascript
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 adpav/adpav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
